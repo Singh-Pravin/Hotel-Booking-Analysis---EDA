@@ -2,7 +2,7 @@
 
 EDA Hotel Booking Analysis
 
-Summary
+## Summary
 
 Travelling is common these days and that too not only in locals but around the world. Planning a stay in other cities or countries is so easy nowadays when you are travelling. In this EDA project, we were provided with a series of data that we have to use to analyze multiple important factors that govern the bookings.
 
